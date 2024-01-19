@@ -4,7 +4,7 @@
 This is a Python script intended to download files and folders from Google Drive. The script makes use of Google's Drive API and requires user authentication.
 
 ## Getting Started
-Clone repo
+`git clone https://github.com/ivan-mitrev/GD-CMD.git`
 
 ### Prerequisites
 This script requires Python and several Python libraries, which are specified below:
