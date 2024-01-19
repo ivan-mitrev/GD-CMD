@@ -18,20 +18,20 @@ This script requires Python and several Python libraries, which are specified be
 - sys
 - os
 
-### 🔧 Installation
 -----
+### 🔧 Installation
 
 The recommended method to install these libraries is via pip:
 
-pip install google-auth-oauthlib google-auth-httplib2 google-auth google-api-python-client `
+`pip install google-auth-oauthlib google-auth-httplib2 google-auth google-api-python-client`
 
 or
 
 `pip install -r requirements.txt`
 
 
-### 🔥 Usage
 -----
+### 🔥 Usage
 
 The script can be used from the command line as follows:
 
